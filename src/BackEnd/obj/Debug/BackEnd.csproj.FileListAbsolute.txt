@@ -1,0 +1,15 @@
+C:\Users\Arielito\Desktop\BackEnd\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\BackEnd\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Desktop\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\Jueguito\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Desktop\Jueguito\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\Jueguito\BackEnd\obj\Debug\BackEnd.pdb
+D:\arreglar\Jueguito\BackEnd\bin\Debug\BackEnd.dll
+D:\arreglar\Jueguito\BackEnd\bin\Debug\BackEnd.pdb
+D:\arreglar\Jueguito\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\arreglar\Jueguito\BackEnd\obj\Debug\BackEnd.dll
+D:\arreglar\Jueguito\BackEnd\obj\Debug\BackEnd.pdb
