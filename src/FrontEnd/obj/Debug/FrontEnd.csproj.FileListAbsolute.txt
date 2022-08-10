@@ -1,0 +1,33 @@
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\FrontEnd\obj\Debug\FrontEnd.frmVisualGame.resources
+D:\arreglar\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe.config
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.exe
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.pdb
+D:\arreglar\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe
+D:\arreglar\Jueguito\FrontEnd\bin\Debug\FrontEnd.pdb
+D:\arreglar\Jueguito\FrontEnd\bin\Debug\BackEnd.dll
+D:\arreglar\Jueguito\FrontEnd\bin\Debug\BackEnd.pdb
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.frmVisualGame.resources
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+D:\arreglar\Jueguito\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe.config
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.frmVisualGame.resources
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\Arielito\Documents\Mis proyectos\C#\Windows Form\Jueguito\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
