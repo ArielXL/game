@@ -1,0 +1,16 @@
+C:\Users\Arielito\Desktop\BackEnd\Tester\bin\Debug\Tester.exe.config
+C:\Users\Arielito\Desktop\BackEnd\Tester\bin\Debug\Tester.exe
+C:\Users\Arielito\Desktop\BackEnd\Tester\bin\Debug\Tester.pdb
+C:\Users\Arielito\Desktop\BackEnd\Tester\obj\Debug\Tester.exe
+C:\Users\Arielito\Desktop\BackEnd\Tester\obj\Debug\Tester.pdb
+C:\Users\Arielito\Desktop\BackEnd\Tester\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\BackEnd\Tester\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\BackEnd\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Desktop\Jueguito\Tester\bin\Debug\Tester.exe.config
+C:\Users\Arielito\Desktop\Jueguito\Tester\obj\Debug\Tester.exe
+C:\Users\Arielito\Desktop\Jueguito\Tester\obj\Debug\Tester.pdb
+C:\Users\Arielito\Desktop\Jueguito\Tester\bin\Debug\Tester.exe
+C:\Users\Arielito\Desktop\Jueguito\Tester\bin\Debug\Tester.pdb
+C:\Users\Arielito\Desktop\Jueguito\Tester\bin\Debug\BackEnd.dll
+C:\Users\Arielito\Desktop\Jueguito\Tester\bin\Debug\BackEnd.pdb
+C:\Users\Arielito\Desktop\Jueguito\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
